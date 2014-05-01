@@ -1,3 +1,5 @@
+<html>
+<body>
 <script src="http://www.carriots.com/js/graphs.js"></script>
 <script> 
 		var carriots = {
@@ -13,3 +15,5 @@
 			  'query[max]': '10' 
 			  };
 </script>
+<body>
+<html>
